@@ -1,6 +1,6 @@
 # script-point
 
-PowerShell 5.1 scripts for automating on-premises SharePoint farm tasks.
+PowerShell 5.1 scripts for automating on-premises SharePoint farm tasks. I accidentally git pushed too much incomplete stuff into this repo so only the items listed below are actually working.
 
 ## Export-SolutionStore.ps1
 
