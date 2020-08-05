@@ -13,3 +13,7 @@ Resets IIS using the /noforce switch on all SharePoint farm servers.
 ## Reset-TimerService.ps1
 
 Resets the SharePoint Timer Server on all SharePoint farm servers.
+
+## Set-SPDCServiceAccount.ps1
+
+Sets the service account for the Distributed Cache to a managed account specified by Domain and User Name.
